@@ -1,0 +1,31 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: rgb(163, 162, 162);
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  .create-form{
+    float: left;
+  }
+
+  body {
+    color: #333333;
+    background-color: #efeee7;
+    font-style: Georgia,"Times New Roman",Times,serif;
+    margin: 10;
+    padding: 10;
+  }
